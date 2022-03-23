@@ -1,5 +1,3 @@
 # Danmakufu
 
-#####
-
-########
+Not uploaded yet
